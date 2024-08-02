@@ -1,0 +1,13 @@
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\MVCApp.exe
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\appsettings.Development.json
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\appsettings.json
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\MVCApp.dll
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\MVCApp.deps.json
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\MVCApp.runtimeconfig.json
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\MVCApp.pdb
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\System.Data.SqlClient.dll
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\runtimes\win-x64\native\sni.dll
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\runtimes\win-x86\native\sni.dll
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\RoopaNagarathnam\source\repos\MVCApp\MVCApp\bin\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
