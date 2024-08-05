@@ -9,7 +9,7 @@ namespace MVCApp
 
         public EmployeeRepository(IConfiguration configuration)
         {
-            _connectionString = configuration.GetConnectionString("DefaultConnectionString");
+            _connectionString = configuration.GetValue<string>("mydbkey");
         }
 
         public  IList<Employee> GetEmployeesAsync()
